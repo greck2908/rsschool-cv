@@ -5,6 +5,6 @@ Deploy: [CV link](https://greck2908.github.io/rsschool-cv/)
 <details>
     <summary>Markdown version</summary>
 
-    + [CV](https://greck2908.github.io/rsschool-cv/cv)  (Markdown)
+    + [CV](https://greck2908.github.io/rsschool-cv/cv) (Markdown)
   
 </details>
