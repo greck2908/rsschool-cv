@@ -9,7 +9,7 @@
 
 ---
 Menu:
-| [*Skills*](#skills) | [*Code example*](#code-example) | [*Projects*](#projects) | [*Summary*](#summary) | [*Experience*](#experience) | [*Education*](#education) |[*Languages*](#languages) |
+| [*Skills*](#skills) | [*Code example*](#code-example) | [*Projects*](#projects) | [*Summary*](#summary) | [*Experience*](#experience) | [*Education*](#education) | [*Languages*](#languages) |
 
 
 ---
