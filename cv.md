@@ -88,7 +88,7 @@ const cardsSet = num => {
 
 `2008 - 2014` __Ekibastuz Engineering and Technical Institute__ - Bachelor of Transport
 
-`20017 - 2023` __Tomsk University of Control Systems and Radio Electronics__ - Software engineering
+`2017 - 2023` __Tomsk University of Control Systems and Radio Electronics__ - Software engineering
 
 ---
 ### **Languages**
